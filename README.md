@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.png" alt="Prominno Labs" width="320" />
+<img src="https://avatars.githubusercontent.com/u/352783889?v=4" alt="Prominno Labs" width="320" />
 
 ### Building smart, scalable software.
 
