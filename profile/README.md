@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ProminnoLabs/.github/refs/heads/main/prominno.webp" alt="Prominno Labs" width="320" />
+<img src="https://raw.githubusercontent.com/ProminnoLabs/.github/refs/heads/main/profile/prominno-labs.png" alt="Prominno Labs" />
 
 ### Building smart, scalable software.
 
