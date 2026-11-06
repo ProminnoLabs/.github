@@ -54,12 +54,34 @@ FRBilling is a cloud-based billing, invoicing, and operations management platfor
 - 🧾 **GST-Compliant Invoice Generation** — Generate professional, GST-ready delivery bills with barcode-enabled receipts; customize with your logo and email directly to clients
 - 💰 **Flexible Rate Master Management** — Configure custom pricing for different destinations, clients, or service tiers with automated rate calculations
 - 💳 **Payment & Expense Tracking** — Monitor incoming collections, outgoing expenses, and maintain a clear view of billed vs. pending deliveries
-- 📈 **Reporting & Analytics** — Access daily payment reports, creditor reports, booking insights, and automated P&L statements comparing franchise earnings against courier charges
+- 📈 **Reporting & Analytics** — Access daily payment reports, creditor reports, booking insights, and automated P&L statements
 - 🏢 **Franchise & Role-Wise Management** — Multi-franchisee support with role-based feature permissions for admins, cash counters, employees, and customer modules
 - 📦 **Stationery Inventory Management** — Track office and packing supplies with reminders so you never run out of essentials
 - 🔍 **Booking Reconciliation** — Cross-examine booking discrepancies, review weight differences, and ensure data integrity
 
 [![Visit FRBilling](https://img.shields.io/badge/Visit-frbilling.com-339933?style=for-the-badge&logo=googlechrome&logoColor=white)](https://frbilling.com/)
+
+---
+
+## 🏆 Featured Projects
+
+### 🔍 Prominno OCR — AI-Powered Document Intelligence
+
+**[prominno.com/ocr](https://prominno.com/ocr)** — _Intelligent OCR & Document Data Extraction Platform_
+
+> Built end-to-end by Prominno Labs.
+
+Prominno OCR transforms scanned documents, images, and PDFs into structured, actionable data. Built for businesses dealing with high volumes of documents, it eliminates manual data entry and powers intelligent document processing workflows.
+
+**What we built:**
+- 📄 **Automated Document Scanning & Ingestion** — Extract raw text and data from scanned PDFs, images, government documents, invoices, legal notices, and bulk files
+- 🧠 **Intelligent Entity Extraction** — ML-powered pipelines that accurately isolate names, dates, IDs, amounts, case numbers, and tax identifiers
+- 🏷️ **Smart Categorization & Routing** — Automatically classify documents, assess urgency, and route extracted data to the right teams or systems
+- 🔎 **Real-Time Keyword Tracking & Watchlists** — Live keyword monitoring, background document searchability, and multi-client database mapping (PAN/GSTIN and more)
+- ☁️ **Cloud Workflow Integration** — Connect OCR output with notification systems (WhatsApp/Email), centralized dashboards, and downstream APIs
+- 🔗 **API-First Architecture** — Integrate document intelligence directly into existing products, workflows, and enterprise systems
+
+[![Visit Prominno OCR](https://img.shields.io/badge/Visit-prominno.com/ocr-1F1F6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://prominno.com/ocr)
 
 ---
 
@@ -97,15 +119,6 @@ FRBilling is a cloud-based billing, invoicing, and operations management platfor
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-## 📂 Our Products
-
-| Product | Description |
-| --- | --- |
-| [**TheQuickAssist**](https://thequickassist.co/) | WhatsApp CRM, AI chatbot & workflow automation platform |
-| [**FRBilling**](https://frbilling.com/) | Cloud-based billing & operations software for courier franchises |
 
 ---
 
