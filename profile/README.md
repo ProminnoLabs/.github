@@ -100,26 +100,6 @@ FRBilling is a cloud-based billing, invoicing, and operations management platfor
 
 ---
 
-## 🏆 Flagship Project
-
-### [Passport365](https://passport365.com/) — Field & Facility Management for the Sports Industry
-
-> Built end-to-end by Prominno Labs for the sports and leisure industry.
-
-Passport365 is a full-featured field and facility management platform designed for managing sports surfaces, synthetic or natural turf fields, and single or multi-site sports venues. We delivered the entire product — from architecture to deployment.
-
-**What we built:**
-- 📋 **Job & Workflow Management** — Drag-and-drop scheduling, recurring job sequences, and custom job templates
-- 📱 **Fieldworker Mobile Apps** — Native iOS & Android apps with offline support, image/video capture, and digital sign-offs
-- 🗺️ **GPS Tracking** — Real-time field worker location tracking for route optimization and emergency job assignment
-- 🔧 **Asset & Maintenance Monitoring** — Surface metrics, documentation, warranties, and full maintenance history
-- 📊 **Dynamic Reporting & BI** — Real-time dashboards, visual analytics, and operational performance insights
-- 🧾 **Quotes & Invoicing** — End-to-end quote-to-invoice workflow
-
-[![Visit Passport365](https://img.shields.io/badge/Visit-passport365.com-1F1F6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://passport365.com/)
-
----
-
 ## 📂 Our Products
 
 | Product | Description |
