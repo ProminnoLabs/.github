@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ProminnoLabs/.github/refs/heads/main/profile/prominno-labs.png" alt="Prominno Labs" />
@@ -16,7 +15,71 @@
 
 ## 👋 About Us
 
-**Prominno Labs** builds modern web, mobile and AI-powered software. This is where we share the tools, templates and experiments we use ourselves. Issues, ideas and pull requests are always welcome.
+**Prominno Labs** is a product-driven software company building modern web, mobile, and AI-powered solutions. From intelligent customer engagement platforms to field operations software, we craft tools that help businesses run smarter and scale faster.
+
+This is where we share the tools, templates, and experiments we use ourselves. Issues, ideas, and pull requests are always welcome.
+
+---
+
+## 🚀 Our Products
+
+### 🌟 Passport365 — Flagship Product
+
+**[passport365.com](https://passport365.com/)** — _Field & Facility Management Software for the Sports & Leisure Industry_
+
+Passport365 is our flagship platform, purpose-built for managing sports surfaces, synthetic or natural turf fields, and single or multi-site sports venues. It connects office teams with field workers in real time and brings everything from job scheduling to invoicing under one roof.
+
+**Key Features:**
+- 📋 **Job & Workflow Management** — Create, schedule, and track jobs from order to completion with drag-and-drop scheduling, recurring job sequences, and custom job templates
+- 📱 **Fieldworker Mobile Apps** — Native iOS & Android apps that work offline, capturing images, videos, sign-offs, and custom form data in the field
+- 🗺️ **GPS Tracking** — Real-time location tracking of field workers to optimize routes and assign jobs on the fly
+- 🔧 **Asset & Maintenance Monitoring** — Track surface metrics, documentation, warranties, and maintenance history for sports facilities
+- 📊 **Dynamic Reporting & BI** — Real-time reports, visual metrics, and analytics to track operational performance
+- 🧾 **Quotes & Invoicing** — Craft professional quotes, convert to jobs, and generate invoices seamlessly
+
+[![Visit Passport365](https://img.shields.io/badge/Visit-passport365.com-1F1F6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://passport365.com/)
+
+---
+
+### 💬 TheQuickAssist — WhatsApp CRM & AI Automation
+
+**[thequickassist.co](https://thequickassist.co/)** — _All-in-One WhatsApp CRM, Workflow Automation & AI Chatbot Platform_
+
+TheQuickAssist helps businesses manage customer interactions, capture leads, and automate support across WhatsApp and other channels — all without writing a single line of code.
+
+**Key Features:**
+- 🤖 **No-Code AI Chatbot & Agent Builder** — Build and deploy GPT-4-powered AI agents using a visual drag-and-drop workflow builder; train them on your own PDFs, documents, or website
+- 📲 **WhatsApp Business Automation** — Connect your WhatsApp number via the Business API, run automated messaging workflows, and send bulk broadcast campaigns
+- 🌐 **Omnichannel Deployment** — Deploy bots and support widgets across your website, WhatsApp, Facebook, and Instagram
+- 🎯 **Lead Generation & Management** — Automate lead qualification, capture contact details inside chat, and sync everything back to your CRM
+- 📅 **Smart Appointment Booking** — Let clients book meetings or consultations directly in chat with Google Meet and calendar integration
+- 🗣️ **80+ Languages Supported** — The AI auto-detects and replies in the customer's language for global reach
+- 👥 **Shared Team Inbox** — Manage conversations collaboratively, assign chats, use labels, and track activity from a unified dashboard or mobile app
+- 🔗 **REST APIs & Webhooks** — Developer-friendly integrations for custom workflows, event triggers, and real-time delivery updates
+
+[![Visit TheQuickAssist](https://img.shields.io/badge/Visit-thequickassist.co-FF6A1A?style=for-the-badge&logo=whatsapp&logoColor=white)](https://thequickassist.co/)
+
+---
+
+### 📦 FRBilling — Courier Billing & Management Software
+
+**[frbilling.com](https://frbilling.com/)** — _Cloud-Based Billing & Operations Software for Courier Businesses_
+
+FRBilling is a cloud-based billing, invoicing, and operations management platform built specifically for courier franchises and logistics service providers. It acts as a digital virtual assistant to automate daily logistics workflows and eliminate manual errors.
+
+**Key Features:**
+- 📬 **Easy Courier Booking & Billing** — Manage daily cash and billing bookings with bulk booking capabilities; reduce manual data entry and human calculation errors
+- 🧾 **GST-Compliant Invoice Generation** — Generate professional, GST-ready delivery bills with barcode-enabled receipts; customize with your logo and email directly to clients
+- 💰 **Flexible Rate Master Management** — Configure custom pricing for different destinations, clients, or service tiers with automated rate calculations
+- 💳 **Payment & Expense Tracking** — Monitor incoming collections, outgoing expenses, and maintain a clear view of billed vs. pending deliveries
+- 📈 **Reporting & Analytics** — Access daily payment reports, creditor reports, booking insights, and automated P&L statements comparing franchise earnings against courier charges
+- 🏢 **Franchise & Role-Wise Management** — Multi-franchisee support with role-based feature permissions for admins, cash counters, employees, and customer modules
+- 📦 **Stationery Inventory Management** — Track office and packing supplies with reminders so you never run out of essentials
+- 🔍 **Booking Reconciliation** — Cross-examine booking discrepancies, review weight differences, and ensure data integrity
+
+[![Visit FRBilling](https://img.shields.io/badge/Visit-frbilling.com-339933?style=for-the-badge&logo=googlechrome&logoColor=white)](https://frbilling.com/)
+
+---
 
 ## 🛠️ Our Tech Stack
 
@@ -53,13 +116,17 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## 🚀 Featured Projects
+---
 
-| Project | Description |
+## 📂 Featured Repositories
+
+| Repository | Description |
 | --- | --- |
-| [**project-one**](https://github.com/ProminnoLabs/project-one) | One-line description of your flagship project |
-| [**project-two**](https://github.com/ProminnoLabs/project-two) | One-line description of an SDK, tool or template |
-| [**project-three**](https://github.com/ProminnoLabs/project-three) | One-line description of another useful project |
+| [**passport365**](https://github.com/ProminnoLabs/passport365) | Field & facility management platform for the sports and leisure industry |
+| [**thequickassist**](https://github.com/ProminnoLabs/thequickassist) | WhatsApp CRM, AI chatbot & workflow automation platform |
+| [**frbilling**](https://github.com/ProminnoLabs/frbilling) | Cloud-based billing & operations software for courier franchises |
+
+---
 
 ## 🤝 Contributing
 
@@ -70,6 +137,8 @@ We love community contributions.
 3. Read the `CONTRIBUTING.md` in each repository before you start.
 
 Found a bug or have an idea? Open an issue in the relevant repo or start a conversation in its **Discussions** tab.
+
+---
 
 ## 📬 Connect With Us
 
@@ -84,6 +153,6 @@ Found a bug or have an idea? Open an issue in the relevant repo or start a conve
 
 <div align="center">
 
-⭐ If you find our projects useful, please star them. It helps a lot.
+⭐ If you find our projects useful, please star them — it helps a lot!
 
 </div>
