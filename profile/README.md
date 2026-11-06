@@ -23,24 +23,6 @@ This is where we share the tools, templates, and experiments we use ourselves. I
 
 ## 🚀 Our Products
 
-### 🌟 Passport365 — Flagship Product
-
-**[passport365.com](https://passport365.com/)** — _Field & Facility Management Software for the Sports & Leisure Industry_
-
-Passport365 is our flagship platform, purpose-built for managing sports surfaces, synthetic or natural turf fields, and single or multi-site sports venues. It connects office teams with field workers in real time and brings everything from job scheduling to invoicing under one roof.
-
-**Key Features:**
-- 📋 **Job & Workflow Management** — Create, schedule, and track jobs from order to completion with drag-and-drop scheduling, recurring job sequences, and custom job templates
-- 📱 **Fieldworker Mobile Apps** — Native iOS & Android apps that work offline, capturing images, videos, sign-offs, and custom form data in the field
-- 🗺️ **GPS Tracking** — Real-time location tracking of field workers to optimize routes and assign jobs on the fly
-- 🔧 **Asset & Maintenance Monitoring** — Track surface metrics, documentation, warranties, and maintenance history for sports facilities
-- 📊 **Dynamic Reporting & BI** — Real-time reports, visual metrics, and analytics to track operational performance
-- 🧾 **Quotes & Invoicing** — Craft professional quotes, convert to jobs, and generate invoices seamlessly
-
-[![Visit Passport365](https://img.shields.io/badge/Visit-passport365.com-1F1F6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://passport365.com/)
-
----
-
 ### 💬 TheQuickAssist — WhatsApp CRM & AI Automation
 
 **[thequickassist.co](https://thequickassist.co/)** — _All-in-One WhatsApp CRM, Workflow Automation & AI Chatbot Platform_
@@ -118,13 +100,32 @@ FRBilling is a cloud-based billing, invoicing, and operations management platfor
 
 ---
 
-## 📂 Featured Repositories
+## 🏆 Flagship Project
 
-| Repository | Description |
+### [Passport365](https://passport365.com/) — Field & Facility Management for the Sports Industry
+
+> Built end-to-end by Prominno Labs for the sports and leisure industry.
+
+Passport365 is a full-featured field and facility management platform designed for managing sports surfaces, synthetic or natural turf fields, and single or multi-site sports venues. We delivered the entire product — from architecture to deployment.
+
+**What we built:**
+- 📋 **Job & Workflow Management** — Drag-and-drop scheduling, recurring job sequences, and custom job templates
+- 📱 **Fieldworker Mobile Apps** — Native iOS & Android apps with offline support, image/video capture, and digital sign-offs
+- 🗺️ **GPS Tracking** — Real-time field worker location tracking for route optimization and emergency job assignment
+- 🔧 **Asset & Maintenance Monitoring** — Surface metrics, documentation, warranties, and full maintenance history
+- 📊 **Dynamic Reporting & BI** — Real-time dashboards, visual analytics, and operational performance insights
+- 🧾 **Quotes & Invoicing** — End-to-end quote-to-invoice workflow
+
+[![Visit Passport365](https://img.shields.io/badge/Visit-passport365.com-1F1F6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://passport365.com/)
+
+---
+
+## 📂 Our Products
+
+| Product | Description |
 | --- | --- |
-| [**passport365**](https://github.com/ProminnoLabs/passport365) | Field & facility management platform for the sports and leisure industry |
-| [**thequickassist**](https://github.com/ProminnoLabs/thequickassist) | WhatsApp CRM, AI chatbot & workflow automation platform |
-| [**frbilling**](https://github.com/ProminnoLabs/frbilling) | Cloud-based billing & operations software for courier franchises |
+| [**TheQuickAssist**](https://thequickassist.co/) | WhatsApp CRM, AI chatbot & workflow automation platform |
+| [**FRBilling**](https://frbilling.com/) | Cloud-based billing & operations software for courier franchises |
 
 ---
 
